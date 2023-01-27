@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kritifor Milchev</h1>
 <h3 align="center">A passionate fullstack developer from Bulgaria.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kristiformilchev&label=Profile%20views&color=0e75b6&style=flat" alt="kristiformilchev" /> </p>
-
+ 
 
 
 - 🔭 I’m currently working on [Linksync-Ecosystem](https://linksync.tech/)
