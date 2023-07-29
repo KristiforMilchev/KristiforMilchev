@@ -14,6 +14,4 @@
 </p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kristiformilchev&show_icons=true&locale=en" alt="kristiformilchev" /></p>
-
+ 
