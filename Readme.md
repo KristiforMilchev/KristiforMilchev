@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritifor Milchev</h1>
-<h3 align="center">A passionate fullstack developer from Bulgaria.</h3>
-
+ 
 - 💬 Ask me about **Anything .net or dart related.**
 
 - 📫 How to reach me **kristiformilchev@outlook.com**
